@@ -1,2 +1,2 @@
-# Analog-Project
-Astable Multivibrator Inverter Circuit
+# Astable Multivibrator Inverter Circuit
+
